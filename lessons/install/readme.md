@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> I installed Python 3.6
+>> I installed Python 3.6. It was previously installed in my computer.
 
 ### Q2. Which Python Version Installed   
 
